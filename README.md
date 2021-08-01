@@ -1,4 +1,14 @@
-# `Vite 2.x + Vue 3.x + Tailwind 2.x + Typescript 4.x starter ⚡`
+# package-skeleton
+
+---
+
+Template Setup: run `node configure-package.js` to configure.
+
+{{package.description}}
+
+---
+
+## `Vite 2.x + Vue 3.x + Tailwind 2.x + Typescript 4.x starter ⚡`
 
 ![Vite, Vue, Tailwind CSS](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
 
@@ -19,11 +29,11 @@ First-party plugins needed for Tailwind UI:
 - [tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
 - [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
 
-### Getting Started 🚀
+## Getting Started 🚀
 
 npm:
 ```sh
-npm i
+npm install
 npm run dev
 npm run build
 npm run serve
@@ -31,7 +41,7 @@ npm run serve
 
 ## Testing
 
-`vite-vue-tailwind-ts-template` uses Jest for unit tests.  To run the test suite:
+`package-skeleton` uses Jest for unit tests.  To run the test suite:
 
 `npm run test`
 
@@ -51,8 +61,8 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
+- [{{package.author.name}}](https://github.com/{{package.author.github}})
 - [web2033](https://github.com/web2033/vite-vue3-tailwind-starter)
-- [Patrick Organ](https://github.com/patinthehat)
 - [All Contributors](../../contributors)
 
 ## License

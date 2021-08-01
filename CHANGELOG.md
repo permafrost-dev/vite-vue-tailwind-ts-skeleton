@@ -1,9 +1,9 @@
 # Changelog
 
-All notable changes to `vite-vue-tailwind-ts-template` will be documented in this file.
+All notable changes to `package-skeleton` will be documented in this file.
 
 ---
 
-## 1.0.0 - 2021-08-01
+## 1.0.0 - unreleased
 
 - initial release

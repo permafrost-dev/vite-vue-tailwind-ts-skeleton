@@ -1,6 +1,9 @@
 {
-    "name": "vite-vue-tailwind-ts-starter",
+    "name": "package-skeleton",
     "version": "1.0.0",
+    "description": "{{package.description}}",
+    "author": "{{package.author.name}} <{{package.author.email}}>",
+    "license": "MIT",
     "scripts": {
         "dev": "vite --host",
         "build": "vite build",
