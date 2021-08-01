@@ -1,6 +1,7 @@
 /.idea
 /.vscode
 /build
+/coverage
 /dist
 /dist-ssr
 /node_modules
